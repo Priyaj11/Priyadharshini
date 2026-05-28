@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm Priya J
+# Hi there! 👋 I'm Priyadharshini Jaffar Ali
 
 <div align="center">
 
-🔋 **EV Systems Engineer Aspirant** | ⚡ **Power Electronics Engineer** | 🔧 **Electrical & Computer Engineer**
+**Embedded AI Engineer** | **Electrical & Computer Engineer** | **TinyML**
 
 *Transforming complex electrical concepts into efficient, reliable EV and power electronic solutions*
 
@@ -62,7 +62,7 @@ I bring together **analytical thinking**, **system-level understanding**, and **
 </div>
 
 ### Programming Languages & Tools
-- **Programming**: Python, C
+- **Programming**: Python, C, Java
 - **Simulation**: MATLAB, Simulink, LTspice
 - **Hardware**: Embedded Systems, Sensors, Signal Analysis
 - **Version Control**: Git
@@ -135,8 +135,7 @@ I bring together **analytical thinking**, **system-level understanding**, and **
 ## 📝 Current Focus
 
 - 🔬 Researching advanced BMS algorithms
-- 📚 Expanding knowledge in power electronics design
-- 💡 Developing innovative EV solutions
+- 📚 Expanding knowledge in Embedded Systems
 - 🤝 Contributing to open-source projects
 
 ---
